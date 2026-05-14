@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rasul/Documents/University(current)/year 3/semester 6(file)/5
+  Machine Learning/final-project/mlruns/0/0315f56ff5d74608ab2c91c58a5b661c/artifacts
+end_time: 1778774583205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0315f56ff5d74608ab2c91c58a5b661c
+run_name: inference
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778774583126
+status: 3
+tags: []
+user_id: rasul

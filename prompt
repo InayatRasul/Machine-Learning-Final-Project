@@ -1,0 +1,6 @@
+So i am studying Machine Learning course and i am making my final project, and i chose 
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+so i need you to create project which will fit to all requirements, which are:
+ML model, ML service(API & Deployment).
+ Jupyter notebook with clear data preprocessing, feature engineering, visual chart(tables,graphs etc), evaluation metrics and justification.
+translation of model predictions(low, high, medium risk (or other) etc)
